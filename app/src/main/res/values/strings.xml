@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Rate That Record</string>
+    <string name="title_activity_song1">Song1</string>
+    <string name="title_activity_rankings">Rankings</string>
+    <string name="btnRankings">Rank the Music!</string>
+
+    <string-array name="txtSongs">
+        <item>Pick A Song</item>
+        <item>The Best Is Yet To Come</item>
+        <item>Run Like The River</item>
+        <item>Superstition</item>
+    </string-array>
+    <string name="txtTitle">Favorite Song:</string>
+    <string name="txtTitle2">Second Favorite Song:</string>
+    <string name="txtTitle3">Third Favorite Song:</string>
+    <string name="btnSubmit">Submit</string>
+    <string name="btnBuble">Play The Best Is Yet To Come</string>
+    <string name="btnTrouble">Play Run Like The River</string>
+    <string name="btnWonder">Play Superstition</string>
+    <string name="buble">Michael Buble Image</string>
+    <string name="trouble">Vintage Trouble Picture</string>
+    <string name="wonder">Stevie Wonder Picture</string>
+
+</resources>
